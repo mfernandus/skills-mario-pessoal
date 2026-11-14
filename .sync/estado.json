@@ -1,0 +1,18 @@
+{
+  "karpathy-guidelines": {
+    "arquivos": [
+      "SKILL.md"
+    ],
+    "pasta": "terceiros/karpathy-guidelines",
+    "sha": "cc6f7cb77656eaedb515966bbbb273ed5d41da1bfe83c6a07e967614fb6a31a0",
+    "updatedAt": "2026-08-31T00:18:45.810245Z"
+  },
+  "nx-mac-clean": {
+    "arquivos": [
+      "SKILL.md"
+    ],
+    "pasta": "pessoais/nx-mac-clean",
+    "sha": "99cfbe9a1225c2501c42028189b1da67f57d1a09de03669bba0390fe3d844306",
+    "updatedAt": "2026-09-06T21:15:23.511100Z"
+  }
+}
