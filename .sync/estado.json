@@ -1,4 +1,12 @@
 {
+  "avaliacao-modelo-skills": {
+    "arquivos": [
+      "SKILL.md"
+    ],
+    "pasta": "pessoais/avaliacao-modelo-skills",
+    "sha": "e68a4f60fa7c75cf5937c9a41742e779efd4d90b1d55853f7c2f9072ba81d31f",
+    "updatedAt": "2026-11-17T11:07:47.801359Z"
+  },
   "karpathy-guidelines": {
     "arquivos": [
       "SKILL.md"
