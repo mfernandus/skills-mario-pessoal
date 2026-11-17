@@ -4,7 +4,7 @@ Skills pessoais de Mário Fernando e as skills de apoio (Anthropic e terceiros) 
 
 ## Estrutura
 
-- `pessoais/` — skills de uso pessoal (nx-mac-clean).
+- `pessoais/` — skills de uso pessoal (nx-mac-clean, avaliacao-modelo-skills).
 - `anthropic/documentos-e-planilhas/` — docx, pdf, xlsx e pptx.
 - `anthropic/visual/` — canvas-design e theme-factory.
 - `anthropic/criacao-de-skills/` — skill-creator.
